@@ -1,2 +1,5 @@
 # HW5
-Generating visuals using Matplotlib
+
+Matplotlib, Numpy, Seaborn, and Scipy were all used to clean and manipulate data that was recorded during a drug trial that looked at tumor statistics in mice in relation to certain drug regimens. Several tasks were done, including finding the summary statistics for each drug regimen, finding outliers, and creating various visualizations to best illustrate the data.
+
+After data manipulation and visualization, an analysis was conducted, yielding several findings. Both Capomulin and Ramicane had the lowest final tumor volumes compared to Infubinol and Ceftamin, as shown in the "Final Tumor Volume per Drug Regimen." Capomulin and Ramicane also had more observed timepoints, despite each regimen having 25 mice, which may have contributed to their results. Capomulin had the most mice complete the study, while Infubinol saw one outlier where a mouse showed a reduction in tumor growth. Additionally, a strong positive correlation was observed between mouse weight and tumor volume, indicating that weight may influence treatment effectiveness.
